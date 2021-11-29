@@ -36,6 +36,7 @@ export const AnimationContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  color: #03a9f4;
 
   animation: ${appearFromLeft} 1s;
 
@@ -62,7 +63,7 @@ export const AnimationContainer = styled.div`
   }
 
   > a {
-    color: #ff9000;
+    color: #03a9f4;
     display: block;
     margin-top: 24px;
     text-decoration: none;

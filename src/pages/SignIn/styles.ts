@@ -36,6 +36,7 @@ export const AnimationContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  color: #03a9f4;
 
   animation: ${appearFromLeft} 1s;
 
@@ -49,20 +50,20 @@ export const AnimationContainer = styled.div`
     }
 
     a {
-      color: #f4ede8;
+      color: #03a9f4;
       display: block;
       margin-top: 24px;
       text-decoration: none;
       transition: color 0.3s;
 
       &:hover {
-        color: ${shade(0.2, '#f4ede8')};
+        color: ${shade(0.2, '#03A9F4')};
       }
     }
   }
 
   > a {
-    color: #ff9000;
+    color: #03a9f4;
     display: block;
     margin-top: 24px;
     text-decoration: none;

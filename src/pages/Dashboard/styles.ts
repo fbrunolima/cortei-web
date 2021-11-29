@@ -24,7 +24,7 @@ export const HeaderContent = styled.div`
     border: none;
 
     svg {
-      color: #999591;
+      color: #03a9f4;
     }
   }
 `;
@@ -52,7 +52,7 @@ export const HeaderProfile = styled.div`
 
     a {
       text-decoration: none;
-      color: #ff9000;
+      color: #03a9f4;
 
       transition: opacity 0.3s;
       &:hover {
@@ -71,6 +71,7 @@ export const Content = styled.main`
 export const Schedule = styled.div`
   flex: 1;
   margin-right: 120px;
+  color: #03a9f4;
 
   h1 {
     font-size: 36px;
@@ -78,7 +79,7 @@ export const Schedule = styled.div`
 
   p {
     margin-top: 8px;
-    color: #ff9000;
+    color: #444444;
     display: flex;
     align-items: center;
     font-weight: 500;
@@ -92,7 +93,7 @@ export const Schedule = styled.div`
       content: '';
       width: 1px;
       height: 12px;
-      background: #ff9000;
+      background: #03a9f4;
       margin: 0 8px;
     }
   }
@@ -102,7 +103,7 @@ export const NextAppointment = styled.div`
   margin-top: 64px;
 
   > strong {
-    color: #999591;
+    color: #03a9f4;
     font-size: 20px;
     font-weight: normal;
   }
@@ -157,7 +158,7 @@ export const Section = styled.section`
   margin-top: 48px;
 
   > strong {
-    color: #999591;
+    color: #03a9f4;
     font-size: 20px;
     line-height: 26px;
     border-bottom: 1px solid #3e3b47;
@@ -167,7 +168,7 @@ export const Section = styled.section`
   }
 
   > p {
-    color: #999591;
+    color: #444444;
   }
 `;
 
