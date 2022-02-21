@@ -73,12 +73,12 @@ Technologies that I used to develop this web client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/EliasGcf/gobarber-api) running
+- Have this application's [API](...) running
 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/gobarber-web.git && cd gobarber-web
+$ git clone git@github.com:fbrunolima/cortei-web.git && cd cortei-web
 ```
 
 **Follow the steps below**
