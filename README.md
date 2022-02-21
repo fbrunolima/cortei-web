@@ -46,8 +46,8 @@
 
 Soon
 
-To see the **api**, click here: [GoBarber Rest API](https://github.com/EliasGcf/gobarber-api)</br>
-To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/EliasGcf/gobarber-mobile)
+To see the **api**, click here: [CORTEI Rest API](...)</br>
+To see the **mobile client**, click here: [CORTEI Mobile](...)
 
 ## 🚀 Technologies
 
@@ -128,4 +128,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Elias Gabriel 👋 [See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜 by Equipe CORTEI 👋
