@@ -17,9 +17,9 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/gobarber-web?color=%23FF9000">
 
-  <a href="https://github.com/EliasGcf/gobarber-web/commits/master">
+  <!--<a href="https://github.com/EliasGcf/gobarber-web/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/gobarber-web?color=%23FF9000">
-  </a>
+  </a>-->
 
   <a href="https://github.com/EliasGcf/gobarber-web/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/gobarber-web?color=%23FF9000">
