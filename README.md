@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  ReactJS Application for GoBarber project
+  Projeto CORTEI
 </h3>
 
 <p align="center">The best way to schedule your service!</p>
