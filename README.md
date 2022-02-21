@@ -25,7 +25,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/gobarber-web?color=%23FF9000">
   </a>
 
-  <!--<img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/gobarber-web?color=%23FF9000">-->
+  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/gobarber-web?color=%23FF9000">
 </p>
 
 <p align="center">
@@ -38,9 +38,9 @@
 
 </br>
 
-<p align="center">
+<!--<p align="center">
   <img alt="Layout" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588811213/GoBarber/Kapture_2020-05-06_at_21.25.26_tijnl5.gif">
-</p>
+</p>-->
 
 ## 💇🏻‍♂️ About the project
 
